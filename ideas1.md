@@ -15,3 +15,8 @@ FEATURES:
 POSSIBLE BUGS:
 1. Angle or quality of source photo might compromise recognition ability.
 2. Generic or niche hats may not be included in database.
+
+GREELEY'S FEEDBACK:
+1. This is a powerful idea that may cause some privacy concerns especially among the tinfoil hat crowd.
+2. The dressing room feature should perhaps map head shapes and make suggestions or steer people away from hats that may not be complimentary to their particular head shape.
+3. Great idea that will surely prove to be a valuable resource for hat lovers, hat hobbyists, and hat enthusiasts worldwide.
